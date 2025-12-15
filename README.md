@@ -1,16 +1,13 @@
 # Business Booster (Ready for Vercel)
 
-## 1) Install
+This project is pre-configured for Vercel deployments.
+
+## Run locally
 ```bash
 npm install
-```
-
-## 2) Run locally
-```bash
 npm run dev
 ```
-Open http://localhost:3000
 
-## 3) Deploy to Vercel
-- Push this project to a GitHub repo
-- In Vercel: **New Project** → Import repo → **Deploy**
+## Deploy to Vercel
+1) Push this project to GitHub (upload the files/folders — not the zip)
+2) In Vercel: New Project → Import repo → Deploy
